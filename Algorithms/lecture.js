@@ -8,7 +8,7 @@ var arr = [1,2,3,"David", x];
 // var m = arr[0];
 // arr[0] = arr[1];
 // arr[1] = m;
-
+console.log("Hello World");
 
 // var toddsOddFacts = {
 //     favoriteNumber: 1, // key: value pair 
